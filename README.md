@@ -1,4 +1,7 @@
 cargo build
+
+
+
 cargo test  -- --nocapture
 
 Output VK delta G2
